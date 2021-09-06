@@ -9,9 +9,9 @@ its dependencies.
 
 `sudo docker run --rm -v /home/vincent/projects/fontys:/srv/shiny-server/data -p 3838:3838 habitus-app`
 
-3. Run app without exposing data: `sudo docker run --rm -p 3838:3838 habitus-app`
+(If you do `sudo docker run --rm -p 3838:3838 habitus-app` you would not expose the data to the app)
 
-4. Open app in browser: `http://localhost:3838/`
+3. Open app in browser: `http://localhost:3838/`
 
-5. Remove image: `sudo docker rmi habitus-app`
+4. Remove image: `sudo docker rmi habitus-app`
 
