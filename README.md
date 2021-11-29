@@ -1,4 +1,7 @@
-# HabitusDocker
+# THIS REPOSITORY IS NO LONGER MAINTAINED, SEE THE [HabitusGUI](https://github.com/habitus-eu/HabitusGUI) REPO FOR OUR CURRENT DOCKER SOLUTION
+
+
+## HabitusDocker
 
 This repository contains docker files needed for hosting Habitus Shiny app and
 its dependencies.
